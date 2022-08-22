@@ -2,8 +2,8 @@
 #
 #   Tema: Intrefaz de Consumo Electrico Residencial 
 #   Grupo #2
-#   INTEGRANTES:                        Profesor: Ing. Jose Cueva Tumbaco  
-# - Angel Zumba                         Paralelo: 102
+#   INTEGRANTES:------------------------Profesor: Ing. Jose Cueva Tumbaco  
+# - Angel Zumba-------------------------Paralelo: 102
 # - Anthony Beltran 
 # - Jeffry Beltran 
 # - Erick Vega
